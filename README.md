@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @irpoiro
-- 👀 I’m interested in Java, JS and other
-- 🌱 I’m currently learning ReactJS 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vk.com/irpoiro
+- 👀 I’m interested in Java, JS, kotlin
+- 📫 How to reach me - [VK](https://vk.com/irpoiro) , [TG](https://t.me/irpoiro)
