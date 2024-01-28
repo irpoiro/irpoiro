@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @irpoiro
-- 👀 I’m interested in Java, JS, kotlin
+- 👀 I’m interested in С++, Python, reverse engineering
 - 📫 How to reach me - [VK](https://vk.com/irpoiro) , [TG](https://t.me/irpoiro)
