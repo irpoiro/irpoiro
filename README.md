@@ -67,7 +67,7 @@ Developer.
 <table>
   <tr>
     <td>
-      <h3>🐦 <a href="https://github.com/irpoiro/VKFunPay">VKFunPay</a></h3>
+      <h3>⭐ <a href="https://github.com/irpoiro/VKFunPay">VKFunPay</a></h3>
       <p>Нативный VK-бот для продавцов FunPay: заказы, сообщения, автовыдача,
       панель управления на callback-клавиатурах VK.</p>
       <p>
