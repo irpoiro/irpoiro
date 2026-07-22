@@ -2,6 +2,8 @@
 
 # irpoiro
 
+![img](https://count.getloli.com/get/@peterroe?theme=rule34)
+
 ### C++ · Python · Java · Web · Reverse Engineering
 
 [![VK](https://img.shields.io/badge/VK-@irpoiro-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/irpoiro)
