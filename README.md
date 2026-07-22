@@ -82,8 +82,9 @@ Developer.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=irpoiro&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Stats">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=irpoiro&layout=compact&theme=tokyonight&hide_border=true&locale=ru" alt="Top Langs">
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irpoiro&theme=tokyonight" alt="Profile Details">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irpoiro&theme=tokyonight" alt="Repos per language">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irpoiro&theme=tokyonight" alt="GitHub Stats">
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irpoiro&theme=tokyonight&hide_border=true&locale=ru" alt="Streak Stats">
