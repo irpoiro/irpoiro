@@ -69,7 +69,7 @@ Developer.
     <td>
       <h3>🐦 <a href="https://github.com/irpoiro/VKFunPay">VKFunPay</a></h3>
       <p>Нативный VK-бот для продавцов FunPay: заказы, сообщения, автовыдача,
-      панель управления на callback-клавиатурах VK — без Telegram.</p>
+      панель управления на callback-клавиатурах VK.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/VK%20Bots%20Long%20Poll-0077FF?style=flat-square&logo=vk&logoColor=white">
