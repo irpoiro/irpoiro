@@ -4,7 +4,7 @@
 
 ![img](https://count.getloli.com/get/@peterroe?theme=rule34)
 
-### C++ · Python · Java · Web · Reverse Engineering
+### C++ · Python · Java · Kotlin · Web · Reverse Engineering
 
 [![VK](https://img.shields.io/badge/VK-@irpoiro-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/irpoiro)
 [![Telegram](https://img.shields.io/badge/Telegram-@irpoiro-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/irpoiro)
@@ -21,6 +21,7 @@ Developer.
 - ⚙️ **C++** — системная и прикладная разработка, производительный код, низкоуровневые вещи
 - 🐍 **Python** — автоматизация, боты, парсинг, инструментарий "под задачу"
 - ☕ **Java** — прикладная и backend-разработка
+- - 🟣 **Kotlin** — нативная Android-разработка
 - 🌐 **Web** — фронтенд и бэкенд: от вёрстки до API и серверной логики
 - 🔍 **Reverse Engineering** — статический и динамический анализ, исследование бинарей и протоколов
 - 🛡 Люблю разбираться, как что-то устроено внутри — и собирать своё поверх этого
@@ -35,7 +36,9 @@ Developer.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![ASM](https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white)
+
 
 **Web**
 
