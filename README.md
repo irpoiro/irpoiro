@@ -76,6 +76,17 @@ Developer.
       </p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <h3>⭐ <a href="https://github.com/irpoiro/FunDesk">FunDesk Android</a></h3>
+      <p>Нативное Android-приложение для автоматизации торговли на FunPay. Автоответы, автовыдача, поднятие лотов, статистика и удобное управление.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Android-7%2B-green?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Kotlin-1.9%2B-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white">
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
